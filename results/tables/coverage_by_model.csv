@@ -1,0 +1,4 @@
+model_name,expected_responses,observed_responses,token_ceiling_responses,abrupt_at_ceiling,missing_responses,coverage_rate,token_ceiling_rate_observed
+ChatGPT,1000,984,664,620,16,0.984,0.6747967479674797
+Claude,1000,1000,30,27,0,1.0,0.03
+Gemini,1000,1000,0,0,0,1.0,0.0

@@ -1,0 +1,10 @@
+analysis,model_name,outcome,n_blocks,n_conditions,friedman_chi2,degrees_of_freedom,p_value,kendalls_w
+RQ1_full_observed,ChatGPT,core_behavioural_sensitivity,89,10,397.8578628345705,9,3.924018706180313e-80,0.4967014517285524
+RQ1_full_observed,ChatGPT,lsa_semantic_divergence,89,10,389.6855975485187,9,2.17235008481528e-78,0.48649887334396835
+RQ1_full_observed,ChatGPT,lexical_jaccard_instability,89,10,426.00919305413663,9,3.838463281513003e-86,0.5318466829639659
+RQ1_full_observed,Claude,core_behavioural_sensitivity,100,10,662.4000000000001,9,8.335646872254045e-137,0.7360000000000001
+RQ1_full_observed,Claude,lsa_semantic_divergence,100,10,551.8450909090911,9,4.477089659521447e-113,0.6131612121212123
+RQ1_full_observed,Claude,lexical_jaccard_instability,100,10,534.6370909090911,9,2.186202836280508e-109,0.5940412121212123
+RQ1_full_observed,Gemini,core_behavioural_sensitivity,100,10,608.1294545454548,9,3.768035792248957e-125,0.6756993939393943
+RQ1_full_observed,Gemini,lsa_semantic_divergence,100,10,519.0283636363638,9,4.832996794443272e-106,0.576698181818182
+RQ1_full_observed,Gemini,lexical_jaccard_instability,100,10,562.5207272727275,9,2.300543305736687e-115,0.6250230303030306

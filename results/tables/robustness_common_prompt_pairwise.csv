@@ -1,0 +1,10 @@
+analysis,model_name,outcome,condition_a,condition_b,n_pairs,median_a,median_b,median_difference_a_minus_b,wilcoxon_statistic,p_value_raw,rank_biserial_a_minus_b,p_value_holm,significant_holm
+Common_uncapped_prompt_model_comparison,All_models,response_word_count,ChatGPT,Claude,320,296.5,174.5,150.5,1802.0,4.0972138729601433e-47,0.9298286604361371,1.229164161888043e-46,True
+Common_uncapped_prompt_model_comparison,All_models,response_word_count,ChatGPT,Gemini,320,296.5,309.0,-18.5,19962.0,0.001001639534343261,-0.21287040870645293,0.001001639534343261,True
+Common_uncapped_prompt_model_comparison,All_models,response_word_count,Claude,Gemini,320,174.5,309.0,-169.0,4632.0,5.3693337795602705e-37,-0.819626168224299,1.0738667559120541e-36,True
+Common_uncapped_prompt_model_comparison,All_models,lexical_diversity,ChatGPT,Claude,320,0.6331805,0.751679,-0.11071649999999994,2025.0,2.8563038087283906e-46,-0.9211448598130841,8.568911426185172e-46,True
+Common_uncapped_prompt_model_comparison,All_models,lexical_diversity,ChatGPT,Gemini,320,0.6331805,0.5820784999999999,0.030503000000000002,17256.5,3.6647693382359293e-07,0.3280179127725857,3.6647693382359293e-07,True
+Common_uncapped_prompt_model_comparison,All_models,lexical_diversity,Claude,Gemini,320,0.751679,0.5820784999999999,0.166431,4241.0,2.5552085649724265e-38,0.8348520249221184,5.110417129944853e-38,True
+Common_uncapped_prompt_model_comparison,All_models,claim_verification_risk_proxy,ChatGPT,Claude,320,0.85,0.85,0.0,3411.5,1.1530549769888703e-05,0.40545486232136635,2.3061099539777406e-05,True
+Common_uncapped_prompt_model_comparison,All_models,claim_verification_risk_proxy,ChatGPT,Gemini,320,0.85,0.85,0.0,5522.0,0.22753964806966487,-0.10957026525840523,0.22753964806966487,False
+Common_uncapped_prompt_model_comparison,All_models,claim_verification_risk_proxy,Claude,Gemini,320,0.85,0.85,0.0,6798.0,1.9658754007164995e-06,-0.37449392712550605,5.897626202149499e-06,True

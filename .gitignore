@@ -1,0 +1,12 @@
+.DS_Store
+.venv/
+.jupyter-local/
+.ipython-local/
+.cache/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+*.log
+data_collection_all_responses_checkpoint.jsonl
+*_working.xlsx
