@@ -63,8 +63,8 @@ Automated claim-risk and recommendation measures are explicitly treated as **pro
 .
 ├── assets/readme/          # README hero artwork
 ├── data/
-│   ├── raw/                # Prompt design workbook
-│   ├── interim/            # Collected provider responses
+│   ├── raw/                # Collected provider responses
+│   ├── interim/            # Prompt design workbook
 │   └── processed/          # Analysis-ready dataset
 ├── notebooks/              # 01 collection → 02 cleaning → 03 analysis
 ├── results/
@@ -77,7 +77,6 @@ Automated claim-risk and recommendation measures are explicitly treated as **pro
 ```
 
 ## Reproduce the analysis
-
 The statistical analysis is fully local and does not require API keys.
 
 ```bash
