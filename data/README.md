@@ -4,8 +4,8 @@ The dataset is organised by pipeline stage so that provenance is visible without
 
 | Layer | File | Description |
 |---|---|---|
-| Collection | `raw/pre_data_collection.xlsx` | Experimental prompt design: 100 base intents × 10 phrasing variants across five domains |
-| Raw | `interim/data_collection_all_responses.xlsx` | Provider responses and collection metadata written by Notebook 01 |
+| Collection | `collection/pre_data_collection.xlsx` | Experimental prompt design: 100 base intents × 10 phrasing variants across five domains |
+| Raw | `raw/data_collection_all_responses.xlsx` | Provider responses and collection metadata written by Notebook 01 |
 | Processed | `processed/analysis_ready_responses.csv` | Tidy, validated input used by Notebook 03 |
 
 The processed file contains 2,984 observed responses from an expected design of 3,000. Sixteen ChatGPT responses were not collected. Responses that reached the fixed 1,200-token ceiling are retained and flagged rather than silently removed.
