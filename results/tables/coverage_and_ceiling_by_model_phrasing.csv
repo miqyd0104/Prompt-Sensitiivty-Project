@@ -1,0 +1,31 @@
+model_name,phrasing_type,n,token_ceiling_n,token_ceiling_rate
+ChatGPT,Direct Question,99,43,0.43434343434343436
+ChatGPT,Conversational,97,85,0.8762886597938144
+ChatGPT,Formal/Professional,100,100,1.0
+ChatGPT,Informal,100,2,0.02
+ChatGPT,Conditional,100,100,1.0
+ChatGPT,Highly Specific,99,22,0.2222222222222222
+ChatGPT,Ambiguous,99,73,0.7373737373737373
+ChatGPT,Comparative,99,98,0.98989898989899
+ChatGPT,Constraint-Based,94,48,0.5106382978723404
+ChatGPT,Role-Based/Expert Framing,97,93,0.9587628865979382
+Claude,Direct Question,100,0,0.0
+Claude,Conversational,100,0,0.0
+Claude,Formal/Professional,100,29,0.29
+Claude,Informal,100,0,0.0
+Claude,Conditional,100,0,0.0
+Claude,Highly Specific,100,0,0.0
+Claude,Ambiguous,100,0,0.0
+Claude,Comparative,100,1,0.01
+Claude,Constraint-Based,100,0,0.0
+Claude,Role-Based/Expert Framing,100,0,0.0
+Gemini,Direct Question,100,0,0.0
+Gemini,Conversational,100,0,0.0
+Gemini,Formal/Professional,100,0,0.0
+Gemini,Informal,100,0,0.0
+Gemini,Conditional,100,0,0.0
+Gemini,Highly Specific,100,0,0.0
+Gemini,Ambiguous,100,0,0.0
+Gemini,Comparative,100,0,0.0
+Gemini,Constraint-Based,100,0,0.0
+Gemini,Role-Based/Expert Framing,100,0,0.0

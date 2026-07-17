@@ -1,0 +1,3 @@
+analysis,model_name,outcome,n_blocks,n_conditions,friedman_chi2,degrees_of_freedom,p_value,kendalls_w
+RQ3_full_observed,All_models,group_core_sensitivity,100,3,90.98000000000002,2,1.7536544362878496e-20,0.4549000000000001
+RQ3_full_observed,All_models,group_semantic_sensitivity,100,3,91.22000000000003,2,1.5553519584833935e-20,0.4561000000000001

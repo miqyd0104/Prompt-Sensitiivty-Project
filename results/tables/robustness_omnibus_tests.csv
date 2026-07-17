@@ -1,0 +1,13 @@
+analysis,model_name,outcome,n_blocks,n_conditions,friedman_chi2,degrees_of_freedom,p_value,kendalls_w
+RQ1_uncapped_only,Claude,core_behavioural_sensitivity,71,10,469.4727272727273,9,1.9641546650463374e-95,0.7346991037131883
+RQ1_uncapped_only,Claude,lsa_semantic_divergence,71,10,399.10755441741367,9,2.123767133828762e-80,0.6245814623120715
+RQ1_uncapped_only,Gemini,core_behavioural_sensitivity,100,10,608.1294545454548,9,3.768035792248957e-125,0.6756993939393943
+RQ1_uncapped_only,Gemini,lsa_semantic_divergence,100,10,519.0283636363638,9,4.832996794443272e-106,0.576698181818182
+RQ3_uncapped_minimum_3_per_group,All_models,group_core_sensitivity,63,3,87.23809523809518,2,1.138907133569311e-19,0.6923658352229777
+RQ3_uncapped_minimum_3_per_group,All_models,group_semantic_sensitivity,63,3,81.55555555555554,2,1.951803654533891e-18,0.6472663139329805
+Common_uncapped_prompt_model_comparison,All_models,response_word_count,320,3,197.48982785602513,2,1.3050548502462218e-43,0.3085778560250393
+Common_uncapped_prompt_model_comparison,All_models,lexical_diversity,320,3,214.13125000000036,2,3.176799904330872e-47,0.33458007812500057
+Common_uncapped_prompt_model_comparison,All_models,claim_verification_risk_proxy,320,3,16.47480106100811,2,0.00026457110084949175,0.025741876657825173
+RQ3_alternative_composite_weights,All_models,core_sensitivity_semantic_heavy,100,3,93.98000000000002,2,3.912931952139117e-21,0.4699000000000001
+RQ3_alternative_composite_weights,All_models,core_sensitivity_equal_weights,100,3,61.98000000000002,2,3.4770745785934905e-14,0.30990000000000006
+RQ3_alternative_composite_weights,All_models,core_sensitivity_no_length,100,3,100.1400000000001,2,1.7983544383860062e-22,0.5007000000000005

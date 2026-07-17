@@ -1,0 +1,4 @@
+scenario,rows,unique_prompts,notes
+Full observed outputs,2984,1000,Includes token-ceiling outputs as realised responses
+Uncapped-only,2290,1000,Metrics recomputed after excluding ceiling responses
+Common uncapped prompt IDs across all models,960,320,Direct model comparison on matched prompt IDs

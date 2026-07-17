@@ -1,0 +1,8 @@
+measure,value
+Expected prompt-model responses,3000
+Observed valid responses,2984
+Missing responses,16
+"Responses at 1,200-token ceiling",694
+Unique prompt IDs,1000
+Unique base intents,100
+Duplicate prompt-model-run keys,0

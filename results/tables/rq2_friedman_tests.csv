@@ -1,0 +1,10 @@
+analysis,model_name,outcome,n_blocks,n_conditions,friedman_chi2,degrees_of_freedom,p_value,kendalls_w
+RQ2_full_observed,ChatGPT,lsa_semantic_divergence,89,10,389.6855975485187,9,2.17235008481528e-78,0.48649887334396835
+RQ2_full_observed,ChatGPT,claim_verification_risk_proxy,89,10,156.13403306706303,9,4.7159877660602885e-29,0.1949238864757341
+RQ2_full_observed,ChatGPT,recommendation_instability_proxy,74,9,96.448721473742,8,2.266521744825784e-17,0.1629201376245642
+RQ2_full_observed,Claude,lsa_semantic_divergence,100,10,551.8450909090911,9,4.477089659521447e-113,0.6131612121212123
+RQ2_full_observed,Claude,claim_verification_risk_proxy,100,10,137.39005363237484,9,3.5652301483547837e-25,0.15265561514708317
+RQ2_full_observed,Claude,recommendation_instability_proxy,67,9,78.76387680528954,8,8.666886394541842e-14,0.14694753135315214
+RQ2_full_observed,Gemini,lsa_semantic_divergence,100,10,519.0283636363638,9,4.832996794443272e-106,0.576698181818182
+RQ2_full_observed,Gemini,claim_verification_risk_proxy,100,10,271.4889294303014,9,2.8646413893821756e-53,0.30165436603366824
+RQ2_full_observed,Gemini,recommendation_instability_proxy,21,10,26.128911138923577,9,0.0019460736362554162,0.13824820708425173

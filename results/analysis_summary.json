@@ -1,0 +1,37 @@
+{
+  "input_file": "analysis_ready_responses.csv",
+  "rows": 2984,
+  "expected_rows": 3000,
+  "missing_responses": 16,
+  "token_ceiling_responses": 694,
+  "models": [
+    "ChatGPT",
+    "Claude",
+    "Gemini"
+  ],
+  "domains": [
+    "Technology",
+    "Finance",
+    "Healthcare",
+    "Marketing",
+    "Sports"
+  ],
+  "base_intents": 100,
+  "prompts": 1000,
+  "common_uncapped_prompt_ids_all_models": 320,
+  "component_scales": {
+    "semantic_component_scaled": 0.31325206667899275,
+    "lexical_component_scaled": 0.9019057198523202,
+    "length_component_scaled": 0.8185596369199912,
+    "structural_component_scaled": 0.4444444444444444
+  },
+  "primary_weights": {
+    "semantic_component_scaled": 0.45,
+    "lexical_component_scaled": 0.25,
+    "length_component_scaled": 0.15,
+    "structural_component_scaled": 0.15
+  },
+  "random_seed": 42,
+  "alpha": 0.05,
+  "figures_created": 12
+}
