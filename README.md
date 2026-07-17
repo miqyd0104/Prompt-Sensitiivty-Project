@@ -64,7 +64,7 @@ Automated claim-risk and recommendation measures are explicitly treated as **pro
 ├── assets/readme/          # README hero artwork
 ├── data/
 │   ├── raw/                # Collected provider responses
-│   ├── interim/            # Prompt design workbook
+│   ├── collection/            # Prompt design workbook
 │   └── processed/          # Analysis-ready dataset
 ├── notebooks/              # 01 collection → 02 cleaning → 03 analysis
 ├── results/
